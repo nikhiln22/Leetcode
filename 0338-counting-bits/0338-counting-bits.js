@@ -7,9 +7,7 @@ var countBits = function (n) {
     for (let i = 0; i <= n; i++) {
         binaryArray.push(i.toString(2));
     }
-    // console.log(binaryArray);
     let output = [];
-
     for (let j = 0; j < binaryArray.length; j++) {
         let count = 0;
         let elem = binaryArray[j].split('');
