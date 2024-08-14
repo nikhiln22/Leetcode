@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nikhiln22/Leetcode/tree/master/0338-counting-bits) |
+| [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nikhiln22/Leetcode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
