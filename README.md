@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/nikhiln22/Leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2235-capitalize-the-title](https://github.com/nikhiln22/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Simulation
 |  |
 | ------- |
