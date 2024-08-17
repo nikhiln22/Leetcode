@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/nikhiln22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/nikhiln22/Leetcode/tree/master/0500-keyboard-row) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nikhiln22/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/nikhiln22/Leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nikhiln22/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2235-capitalize-the-title](https://github.com/nikhiln22/Leetcode/tree/master/2235-capitalize-the-title) |
 ## Simulation
 |  |
