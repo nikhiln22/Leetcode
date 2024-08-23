@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/nikhiln22/Leetcode/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiln22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/nikhiln22/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Memoization
 |  |
