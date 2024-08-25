@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nikhiln22/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiln22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1306-minimum-absolute-difference](https://github.com/nikhiln22/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhiln22/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nikhiln22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/nikhiln22/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiln22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1306-minimum-absolute-difference](https://github.com/nikhiln22/Leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
