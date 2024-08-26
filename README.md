@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1306-minimum-absolute-difference](https://github.com/nikhiln22/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhiln22/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhiln22/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2235-capitalize-the-title](https://github.com/nikhiln22/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Simulation
 |  |
 | ------- |
