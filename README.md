@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nikhiln22/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/nikhiln22/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nikhiln22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/nikhiln22/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/nikhiln22/Leetcode/tree/master/0561-array-partition) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/nikhiln22/Leetcode/tree/master/0561-array-partition) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiln22/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/nikhiln22/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
