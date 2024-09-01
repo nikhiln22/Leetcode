@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhiln22/Leetcode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/nikhiln22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nikhiln22/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nikhiln22/Leetcode/tree/master/0414-third-maximum-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhiln22/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/nikhiln22/Leetcode/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhiln22/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/nikhiln22/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/nikhiln22/Leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
