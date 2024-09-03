@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiln22/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhiln22/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhiln22/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nikhiln22/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Matrix
 |  |
