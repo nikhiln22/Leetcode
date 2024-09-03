@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhiln22/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiln22/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhiln22/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2235-capitalize-the-title](https://github.com/nikhiln22/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nikhiln22/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhiln22/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nikhiln22/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Matrix
 |  |
