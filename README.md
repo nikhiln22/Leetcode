@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nikhiln22/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1610-xor-operation-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/nikhiln22/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Memoization
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhiln22/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/nikhiln22/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Matrix
 |  |
