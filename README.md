@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhiln22/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhiln22/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nikhiln22/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/nikhiln22/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiln22/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhiln22/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nikhiln22/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
 | ------- |
