@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nikhiln22/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1755-defuse-the-bomb](https://github.com/nikhiln22/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/nikhiln22/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/nikhiln22/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Memoization
