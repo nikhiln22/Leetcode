@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/nikhiln22/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3568-find-the-key-of-the-numbers](https://github.com/nikhiln22/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Memoization
 |  |
 | ------- |
