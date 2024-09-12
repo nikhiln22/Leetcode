@@ -148,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/nikhiln22/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nikhiln22/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nikhiln22/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
