@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/nikhiln22/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/nikhiln22/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/nikhiln22/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nikhiln22/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiln22/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nikhiln22/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nikhiln22/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
