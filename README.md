@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nikhiln22/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiln22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nikhiln22/Leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/nikhiln22/Leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhiln22/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0824-number-of-lines-to-write-string](https://github.com/nikhiln22/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nikhiln22/Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/nikhiln22/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/nikhiln22/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Linked List
