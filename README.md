@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/nikhiln22/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/nikhiln22/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/nikhiln22/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/nikhiln22/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhiln22/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhiln22/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhiln22/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nikhiln22/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhiln22/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/nikhiln22/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nikhiln22/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/nikhiln22/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
