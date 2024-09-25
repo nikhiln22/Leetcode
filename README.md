@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhiln22/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nikhiln22/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhiln22/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/nikhiln22/Leetcode/tree/master/0055-jump-game) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhiln22/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nikhiln22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhiln22/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nikhiln22/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
