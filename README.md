@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nikhiln22/Leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/nikhiln22/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/nikhiln22/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhiln22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/nikhiln22/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nikhiln22/Leetcode/tree/master/0043-multiply-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhiln22/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nikhiln22/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nikhiln22/Leetcode/tree/master/0409-longest-palindrome) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nikhiln22/Leetcode/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/nikhiln22/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhiln22/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/nikhiln22/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
