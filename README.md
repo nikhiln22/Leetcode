@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhiln22/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nikhiln22/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3221-find-the-peaks](https://github.com/nikhiln22/Leetcode/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nikhiln22/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/nikhiln22/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/nikhiln22/Leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
